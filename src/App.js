@@ -2,9 +2,9 @@ import React from "react";
 
 const App = () => {
   const portfolioData = {
-    name: "Devaki Krishna Kotturthi",
-    reg:"21BCE8076",
-    place: "Vijayawada, India",
+    name: "Vinjamuri Pavan",
+    reg:"21BCE8452",
+    place: "Mangalagiri, Andhra Pradesh, India",
     skills: ["Artifical Intelligence", "Machine learning", "App Development", "Web Development","Public Speaking","Debate","Event Management"],
     projects: [
       {
